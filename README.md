@@ -57,6 +57,12 @@ Zigbee2mqtt integrates well with (almost) every home automation solution because
 ## Architecture
 ![Architecture](images/architecture.png)
 
+![需要烧录到CC2530 USB dongle的固件](https://github.com/Koenkk/Z-Stack-firmware/blob/master/coordinator/README.md)
+
+![Zigbee树莓派智能家具实践](https://proandroiddev.com/home-automation-with-android-things-kotlin-2e0334101f08)
+![源代码](https://github.com/tunjid/Android-Home-Hub)
+![Java版本控制Zigbee](https://github.com/zsmartsystems/com.zsmartsystems.zigbee)
+
 ## Supported devices
 See [Supported devices](https://www.zigbee2mqtt.io/information/supported_devices.html) to check whether your device is supported. There is quite an extensive list, including devices from vendors like Xiaomi, Ikea, Philips, OSRAM and more.
 
